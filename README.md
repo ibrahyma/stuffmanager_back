@@ -19,10 +19,10 @@ Projet Front : https://github.com/ibrahyma/stuffmanager_front/
 - `npm install`
 - `npm start`
 
-Vous devriez le message suivant :
-`[nodemon] starting \`node server.js\```
-`Exécution du serveur : http://localhost:3200/`
-`Connecté à stuffmanager`
+Vous devriez les messages suivants :
+- `[nodemon] starting node server.js`
+- `Exécution du serveur : http://localhost:3200/`
+- `Connecté à stuffmanager`
 
 5) Vous pouvez ouvrir : http://localhost:3200/
 
