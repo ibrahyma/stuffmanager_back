@@ -29,5 +29,6 @@ Vous devriez les messages suivants :
 Si le serveur vous répond `Connecté à Stuff Manager`, alors le serveur est bien démarré.
 
 IMPORTANT :
+- Pas besoin d'ouvrir http://localhost:3200/ pour utiliser le serveur.
 - Pour arrêter le serveur, vous devez quitter le terminal ou utiliser le raccourci `Ctrl + C`.
 - Le serveur doit être démarré pour pouvoir l'utiliser dans des projets.
