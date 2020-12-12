@@ -6,6 +6,8 @@
 
 #### Cette version est fonctionnelle mais non-optimisée.
 
+- Vous avez besoin d'une invite de commande sous Linux.
+
 Un projet front utilise cet API.
 Projet Front : https://github.com/ibrahyma/stuffmanager_front/
 
